@@ -1,0 +1,52 @@
+.border {
+    border: 2px solid black;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify--center {
+    justify-content: center;
+}
+
+.align-items-center {
+    align-items: center;
+}
+.bg-black {
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+
+}
+.svg{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: white;
+    font-weight: 15px;
+    
+}
+.svg-add{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: white;
+}
+
+.invert {
+    filter: invert(1);
+}
+.bg-grey {
+    background-color: #282828;
+}
+.rounded {
+    border-radius: 10px;
+}
+.m-1 {
+    margin: 5px;
+}
+.p-1 {
+    padding: 5px;
+ 
+}
